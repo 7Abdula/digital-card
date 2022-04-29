@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital-card/static/css/main.c4b3f41d.css",
+    "main.js": "/digital-card/static/js/main.b0f0533e.js",
+    "static/media/profile-img.png": "/digital-card/static/media/profile-img.8b35b2e201aeec8a46d2.png",
+    "static/media/ig-icon.svg": "/digital-card/static/media/ig-icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/github-icon.svg": "/digital-card/static/media/github-icon.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/twitter-icon.svg": "/digital-card/static/media/twitter-icon.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/linkedin-icon.svg": "/digital-card/static/media/linkedin-icon.af0742428e66cf8a8083c9a1f0bf278d.svg",
+    "static/media/facebook-icon.svg": "/digital-card/static/media/facebook-icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "index.html": "/digital-card/index.html",
+    "static/media/email-icon.svg": "/digital-card/static/media/email-icon.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.c4b3f41d.css.map": "/digital-card/static/css/main.c4b3f41d.css.map",
+    "main.b0f0533e.js.map": "/digital-card/static/js/main.b0f0533e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b3f41d.css",
+    "static/js/main.b0f0533e.js"
+  ]
+}
